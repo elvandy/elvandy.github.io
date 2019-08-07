@@ -1,6 +1,6 @@
 ---
-title: "Projects"
-permalink: /projects/
+title: "Research"
+permalink: /research/
 colorlinks: true
 author_profile: true
 ---
