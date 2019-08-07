@@ -10,7 +10,7 @@ Find the full list of my publications on [[Google Scholar profile]](https://scho
 ### Preprints
 **Chen, P.-H. A.**, Jolly, E., Cheong, J. H., & Chang, L. J. (Manuscript under review). Inter-subject representational similarity analysis reveals individual variations in affective experience when watching erotic movies. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/726570v1)
 
-Chang, L. J., Jolly, E., Cheong, J. H., Rapuano, K., Greenstein N., **Chen, P.-H. A.**, & Manning, J. R. (Manuscript under revision at Science Advances). Endogenous variation in ventromedial prefrontal cortex state dynamics reflects affective experience in naturalistic viewing. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/487892v1)
+Chang, L. J., Jolly, E., Cheong, J. H., Rapuano, K., Greenstein N., **Chen, P.-H. A.**, & Manning, J. R. (Manuscript under revision). Endogenous variation in ventromedial prefrontal cortex state dynamics reflects affective experience in naturalistic viewing. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/487892v1)
 
 ### Publications
 **Chen, P.-H. A.**, Kelley, W. M., Lopez, R. B., & Heatherton, T. F. (2019). Reducing reward responsivity and daily food desires in female dieters through domain-specific training. *Social Neuroscience*, 14(4), 470-483. [[pdf]](https://elvandy.github.io/files/Chen_SN2019.pdf)
