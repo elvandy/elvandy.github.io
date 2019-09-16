@@ -13,6 +13,8 @@ Find the full list of my publications on [[Google Scholar profile]](https://scho
 Chang, L. J., Jolly, E., Cheong, J. H., Rapuano, K., Greenstein N., **Chen, P.-H. A.**, & Manning, J. R. (Manuscript under revision). Endogenous variation in ventromedial prefrontal cortex state dynamics reflects affective experience in naturalistic viewing. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/487892v1)
 
 ### Publications
+**Chen, P.-H. A.**, Cheong, J. H., Jolly, E., Elhence, H., Wager, T. D., & Chang, L. J. (in press). Socially transmitted placebo effects. **Nature Human Behaviour**.
+
 **Chen, P.-H. A.**, Kelley, W. M., Lopez, R. B., & Heatherton, T. F. (2019). Reducing reward responsivity and daily food desires in female dieters through domain-specific training. *Social Neuroscience*, 14(4), 470-483. [[pdf]](https://elvandy.github.io/files/Chen_SN2019.pdf)
 
 Lopez, R. B., **Chen, P.-H. A.**, Huckins, J. F., Hofmann, W., Kelley, W. M., & Heatherton, T. F. (2017). A balance of activity in brain control and reward systems predicts self-regulatory outcomes. *Social Cognitive and Affective Neuroscience*, 12(5), 832-838. [[pdf]](https://elvandy.github.io/files/Lopez_SCAN2017.pdf)
