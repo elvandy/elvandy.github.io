@@ -7,5 +7,13 @@ author_profile: true
 
 Here you can find my recent projects and preprints.
 
+### [Socially transmitted placebo effects](https://www.nature.com/articles/s41562-019-0749-5)
+
+Doctors' beliefs impact patients' treatment outcomes. Check out more details on Nature Human Behaviour.
+
+
 ### [Decomposing affective experience](https://www.biorxiv.org/content/10.1101/726570v1)
-Abstract: In this study, we explore variations in the construction of an affective experience during a naturalistic viewing paradigm based on subjective preferences in sociosexual desire and self-control using intersubject representational similarity analysis (IS-RSA). We found that when watching erotic movies, intersubject variations in sociosexual desire preferences of 26 heterosexual males were associated with similarly structured fluctuations in the cortico-striatal reward, default mode, and mentalizing networks. In contrast, variations in the self-control preferences were associated with shared dynamics in the fronto-parietal executive control and cingulo-insula salience networks. Importantly, these results were specific to the affective experience, as we did not observe any relationship with variation in preferences when individuals watched neutral movies. Moreover, these results appear to require multivariate representations of preferences as we did not observe any significant results using single summary scores. Our findings demonstrate that multidimensional variations in individual preferences can be used to uncover unique dimensions of an affective experience, and that IS-RSA can provide new insights into the neural processes underlying psychological experiences elicited through naturalistic experimental designs.
+
+In this study, we explore variations in the construction of an affective experience during a naturalistic viewing paradigm based on subjective preferences in sociosexual desire and self-control using intersubject representational similarity analysis (IS-RSA). Check out more details on bioRxiv.
+
+
