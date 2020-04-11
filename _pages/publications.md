@@ -8,11 +8,11 @@ author_profile: true
 Find the full list of my publications on [[Google Scholar profile]](https://scholar.google.com/citations?user=wXNCX4EAAAAJ&hl=en)
 
 ### Preprints
-**Chen, P.-H. A.**, Jolly, E., Cheong, J. H., & Chang, L. J. (Manuscript under review). Inter-subject representational similarity analysis reveals individual variations in affective experience when watching erotic movies. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/726570v1)
-
 Chang, L. J., Jolly, E., Cheong, J. H., Rapuano, K., Greenstein N., **Chen, P.-H. A.**, & Manning, J. R. (Manuscript under revision). Endogenous variation in ventromedial prefrontal cortex state dynamics reflects affective experience in naturalistic viewing. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/487892v1)
 
 ### Publications
+**Chen, P.-H. A.**, Jolly, E., Cheong, J. H., & Chang, L. J. (in press). Inter-subject representational similarity analysis reveals individual variations in affective experience when watching erotic movies. *Neuroimage*. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/726570v1)
+
 **Chen, P.-H. A.**, Cheong, J. H., Jolly, E., Elhence, H., Wager, T. D., & Chang, L. J. (in press). Socially transmitted placebo effects. **Nature Human Behaviour**. *Article commentary in Nature Human Behaviour (“News and Views: Subtle cues transmit placebo effects” by H. Walach)* [[pdf]](http://bit.ly/2Pppjg7)
 
 **Chen, P.-H. A.**, Kelley, W. M., Lopez, R. B., & Heatherton, T. F. (2019). Reducing reward responsivity and daily food desires in female dieters through domain-specific training. *Social Neuroscience*, 14(4), 470-483. [[pdf]](https://www.ncbi.nlm.nih.gov/pubmed/29985099)
